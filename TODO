@@ -1,0 +1,15 @@
+☐ Crear proyecto con Tauri
+npm create tauri-app@latest 
+
+☐ Install Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+☐ Levantar proyecto en modo desarrollo 
+npm run tauri dev
+
+☐ Instalar Zustand
+npm i zustand
+
+☐ Instalar Tailwind Merge
+npm i tailwind-merge
