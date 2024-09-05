@@ -13,3 +13,10 @@ npm i zustand
 
 ☐ Instalar Tailwind Merge
 npm i tailwind-merge
+
+☐ Release del proyecto
+npm run tauri build 
+
+
+☐ Agregar dependencias a Cargo.toml 
+cargo add rusqlite

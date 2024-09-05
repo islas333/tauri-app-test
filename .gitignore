@@ -28,6 +28,7 @@ dist-ssr/
 
 # Tauri generated files
 /src-tauri/gen/schemas
+/src-tauri/my_database.db
 
 # Rust/Cargo
 /target/
